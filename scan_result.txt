@@ -1,0 +1,2 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 16:33:27 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_result.txt 192.168.0.1/24
+# Nmap done at Thu Nov 13 16:36:54 2025 -- 256 IP addresses (0 hosts up) scanned in 206.44 seconds
